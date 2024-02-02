@@ -6,6 +6,8 @@ I am a research scholar pursuing Ph.D in Development Economics at Indian Institu
 #RESEARCH INTERESTS 
 Development Economics – Inequality, Poverty, Welfare, Human Development, and Political                Economy
 Macro Economics – Consumption and Growth Models 
+
+
 #EDUCATION 
 PhD (pursuing)                                                                      [Year of joining - January 2021]
 From - Indian Institute of Technology Kharagpur, (IIT KGP), WB, India 
