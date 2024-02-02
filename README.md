@@ -3,10 +3,10 @@
 I am a research scholar pursuing Ph.D in Development Economics at Indian Institute of Technology Kharagpur. Within the broad spectrum of development economics, my research focuses on unraveling the complexities surrounding inequality, poverty, welfare economics, and political economics. Motivated by a commitment to address real-world challenges, my goal is to contribute substantively to the discourse on sustainable and inclusive development. I aspire to generate insights that inform policy decisions and promote social justice, ultimately contributing to the betterment of societies grappling with developmental issues. I am eager to engage in collaborative efforts, fostering dialogue and knowledge exchange within the academic community to work towards a more equitable and prosperous future.
 
 
-RESEARCH INTERESTS 
+#RESEARCH INTERESTS 
 Development Economics – Inequality, Poverty, Welfare, Human Development, and Political                Economy
 Macro Economics – Consumption and Growth Models 
-EDUCATION 
+#EDUCATION 
 PhD (pursuing)                                                                      [Year of joining - January 2021]
 From - Indian Institute of Technology Kharagpur, (IIT KGP), WB, India 
  Area of Research - Determinates and Dimensions of Inequality in India  
